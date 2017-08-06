@@ -1,0 +1,19 @@
+{
+  "name": "groceryStoreApi",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "boom": "^5.2.0",
+    "dotenv": "^4.0.0",
+    "hapi-auth-bearer-token": "^5.1.0"
+  }
+}
